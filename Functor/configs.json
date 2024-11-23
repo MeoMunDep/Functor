@@ -1,1 +1,9 @@
-{ "limit": 100, "countdown": 300, "country_time": "en-US" }
+{
+  "limit": 100,
+  "countdown": 86400,
+  "country_time": "en-US",
+  "isSkipInvalidProxy": false,
+  "delayEachAccount": [5, 8],
+  "rotateProxyForAllAccounts": true,
+  "proxyRotationInterval": 2
+}
