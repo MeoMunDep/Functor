@@ -32,13 +32,16 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "isSkipInvalidProxy": false,
+  "timeZone": "en-US",
+  "rotateProxy": false,
+  "skipInvalidProxy": false,
+  "proxyRotationInterval": 2,
   "delayEachAccount": [5, 8],
-  "rotateProxyForAllAccounts": true,
-  "proxyRotationInterval": 2
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 100,
+  "doTasks": true,
+  "playGames": true,
+  "referralCode": ""
 }
 ```
 
