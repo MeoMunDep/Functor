@@ -72,6 +72,14 @@ socks4://user:password@host:port
 socks5://user:password@host:port
 ```
 
+### 5. `twitters.txt` 🌐 - Twitter is an option. If you have one, fill it in; otherwise, leave it blank.
+
+```txt
+@xxx
+@xxx
+@xxx
+```
+
 💡 Usage:
 
 > You need to `cd` to the file after extract it
