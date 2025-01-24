@@ -58,7 +58,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 }
 ```
 
-### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/12845)
+### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNee/1273)
 
 ```txt
 ey...
@@ -67,6 +67,9 @@ ey...
 ```
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.
+
+- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
+
 
 ```txt - wallet address
 abc...xyz
