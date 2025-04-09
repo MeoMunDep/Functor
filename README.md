@@ -10,7 +10,7 @@
 
 ## 🚀 Getting Started
 
-> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux.)
+> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
 
 To get started with the bot, follow these steps:
@@ -79,13 +79,18 @@ abc...xyz
 
 ### 4. `proxies.txt` 🌐 - Proxy is an option. If you have one, fill it in; otherwise, leave it blank.
 
-```txt
-http://user:password@host:port
-https://user:password@host:port
-socks4://user:password@host:port
-socks5://user:password@host:port
-```
+- [Get it from here](https://www.webshare.io/?referral_code=4l5kb3glsce7)
 
+```txt
+http://host:port
+https://host:port
+socks4://host:port
+socks5://host:port
+http://user:pass@host:port
+https://user:pass@host:port
+socks4://user:pass@host:port
+socks5://user:pass@host:port
+```
 ### 5. `twitters.txt` 🌐 - Twitter is an option. If you have one, fill it in; otherwise, leave it blank.
 
 ```txt
