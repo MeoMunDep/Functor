@@ -45,16 +45,12 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```json
 {
-  "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
-  "howManyAccountsRunInOneTime": 100,
-  "doTasks": true,
-  "playGames": true,
-  "referralCode": ""
+  "howManyAccountsRunInOneTime": 100
 }
 ```
 
@@ -102,6 +98,6 @@ socks5://user:pass@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd functor-main/functor; node meomundep`
+> To run the bot, use the following command: `cd functor; node meomundep`
 
 🎇Enjoy!
