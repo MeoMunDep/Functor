@@ -1,0 +1,1 @@
+console.log(`This game is broken for now, just waiting for new version...`)
