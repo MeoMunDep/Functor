@@ -1,1 +1,1 @@
-console.log(`Wait until 100 starts to unlock it guys!`)
+console.log(`Stop the project for now, please choose another scripts!`)
